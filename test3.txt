@@ -1,0 +1,1 @@
+<h1>deze tekst schrijven we naar test3.txt<br>en lezen we na een "rewind"</h1>
